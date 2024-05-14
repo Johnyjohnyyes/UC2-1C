@@ -16,3 +16,4 @@ Atividade 1: Trello
 - [Trello Matérias](https://trello.com/invite/b/5enRkCmQ/ATTIc929e6d7106c602ecc974762773dee3444ACE023/gerenciamento-de-entregas-para-1c)
 - [Trello Individual](https://trello.com/invite/b/uiJnQcZu/ATTIac67670b2709719a0402920e127a9c14077FACBE/trello-individual)
 - [Linguagem C#](https://www.canva.com/design/DAGEjaYuxqs/HK6er6zs_whlqRc2lpjSHw/edit?utm_content=DAGEjaYuxqs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [slides sobre racismo](https://www.canva.com/design/DAGCfvKibA4/OlvxCvUgIoPQpSIN0uqHGQ/edit?utm_content=DAGCfvKibA4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
