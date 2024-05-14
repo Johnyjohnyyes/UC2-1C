@@ -12,7 +12,7 @@
 # João Antônio
 
 Atividade 1: Trello 
-- [João Antônio, Arthur Ângelo, Julia Vitoria, Erick](https://trello.com/invite/b/BE9nLMap/ATTI5f81e4a3d1ffe12f617c5a6464ef9af81F1AC85C/swot)
-
-
-
+- [primeira vez usando trello](https://trello.com/invite/b/BE9nLMap/ATTI5f81e4a3d1ffe12f617c5a6464ef9af81F1AC85C/swot)
+- [Trello Matérias](https://trello.com/invite/b/5enRkCmQ/ATTIc929e6d7106c602ecc974762773dee3444ACE023/gerenciamento-de-entregas-para-1c)
+- [Trello Individual](https://trello.com/invite/b/uiJnQcZu/ATTIac67670b2709719a0402920e127a9c14077FACBE/trello-individual)
+- [Linguagem C#](https://www.canva.com/design/DAGEjaYuxqs/HK6er6zs_whlqRc2lpjSHw/edit?utm_content=DAGEjaYuxqs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
