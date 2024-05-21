@@ -18,3 +18,4 @@ Atividade 1: Trello
 - [Linguagem C#](https://www.canva.com/design/DAGEjaYuxqs/HK6er6zs_whlqRc2lpjSHw/edit?utm_content=DAGEjaYuxqs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [slides sobre racismo](https://www.canva.com/design/DAGCfvKibA4/OlvxCvUgIoPQpSIN0uqHGQ/edit?utm_content=DAGCfvKibA4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Bussines model canva](https://miro.com/welcomeonboard/ZWVDUHpTMTJtd2VTMzJIcmw2RFB5d285TUNXQmFkTkZReGVlYlNLVTBhRlFtVDB2aTNQMlNIdzFnNHMwbkxyUHwzNDU4NzY0NTg0NTQ3MzAyNTQxfDI=?share_link_id=20325538425)
+- [Emprego dos sonhos](https://docs.google.com/document/d/1r_crfaPP0ezz9ieg-Kc5laF9xIFSEol9rY7FpqLMZhY/edit?usp=sharing)
