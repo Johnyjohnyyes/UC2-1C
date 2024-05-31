@@ -19,3 +19,4 @@ Atividade 1: Trello
 - [slides sobre racismo](https://www.canva.com/design/DAGCfvKibA4/OlvxCvUgIoPQpSIN0uqHGQ/edit?utm_content=DAGCfvKibA4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Bussines model canva](https://miro.com/welcomeonboard/ZWVDUHpTMTJtd2VTMzJIcmw2RFB5d285TUNXQmFkTkZReGVlYlNLVTBhRlFtVDB2aTNQMlNIdzFnNHMwbkxyUHwzNDU4NzY0NTg0NTQ3MzAyNTQxfDI=?share_link_id=20325538425)
 - [Emprego dos sonhos](https://docs.google.com/document/d/1r_crfaPP0ezz9ieg-Kc5laF9xIFSEol9rY7FpqLMZhY/edit?usp=sharing)
+- [Gráfico de Gant](https://docs.google.com/spreadsheets/d/15r5nhLpCM5i1E_Zci2s4DUmjR404hpoycgde-5hmax4/edit?usp=sharing)
